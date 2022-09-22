@@ -1,0 +1,21 @@
+@font-face {
+    font-family: brush;
+    src: url(../Fonte/BrushSignature.ttf) ;
+}
+#Barra {
+    width: 1000px;
+    font-family: brush;
+
+}
+@font-face {
+    font-family: Roxo;
+    src: url(../Fonte/Roxo.otf) ;
+}
+.conteudo {
+    width: 1000px;
+    font-family: Roxo;
+    
+}
+
+
+

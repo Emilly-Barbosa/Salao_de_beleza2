@@ -1,0 +1,91 @@
+body{background-color: rgb(153, 156, 156);}
+
+.Letra {
+  color:  goldenrod;
+}
+
+
+input [submit] {
+    background-color: grey;
+}
+ 
+input [text] {
+background-color: grey;
+ }
+
+.logo {
+   height: 75px;
+   width: auto;
+   margin-left: 10px;
+   margin-top: 0px;
+ }
+ .margemdir {
+   margin-left: 800px;
+  }
+ .margem {
+  margin-top: 18px;
+margin-bottom: 15px;
+ }
+#Barra {
+  background-color: rgb(92, 91, 91);
+  width: 100vw;
+  height: 38px;
+ 
+}
+
+#Icon {
+  width: 45px;
+  height: auto;
+  margin-left: 10px;
+  margin-top: 9px;
+}
+#Icon2 {
+  width: 45px;
+  height: auto;
+  margin-left: 1px;
+  margin-top: 9px;
+}
+
+.direita{
+margin-right: 30px;
+}
+
+.link-meu:hover{
+color:grey !important;
+  }
+ .margemcen {
+   text-align: center;
+   width: 50px;
+   height: auto;
+  
+ }
+ #font {
+   margin-top: 15px;
+   height: 30px;
+ }
+
+ .imgc{
+  height: 500px;
+ }
+ .alto{
+   margin-top: 25px;
+ }
+.cima {
+  margin-top: 15px;
+}
+.tam {
+  size: 50px;
+}
+.tam2 {
+  size: 25px;
+}
+.ma{
+  margin-left: 2000px;
+}
+.cima2{
+  margin-top: 30px;
+}
+.core{
+ color: black;
+ margin-left: 10px;
+}
